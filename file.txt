@@ -1,0 +1,1 @@
+print("cau jak sa mas")
